@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "missao-patica_vamos-criar-um-app",
+    "slug": "missao-patica_vamos-criar-um-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#5C7373"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#5C7373"
+      }
+    }
+  }
+}
